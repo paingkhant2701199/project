@@ -1,4 +1,4 @@
-import leo1
+import leo
 
 if __name__ == "__main__":
       leo1.main()
