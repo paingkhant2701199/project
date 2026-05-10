@@ -1,3 +1,3 @@
-import pro
+import leo1
 if __name__ == "__main__":
-    pro.main()
+    leo1.main()
